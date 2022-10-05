@@ -1,5 +1,0 @@
-1. 상품에 대한 타입을 통해 productSize를 입력한다.
-ex) productType = shoes 면 productSize = int값
-ex) productType = 옷이면 productSize = char값
-
-2. isBuy=Y 으로 했을때 주문API 로직으로

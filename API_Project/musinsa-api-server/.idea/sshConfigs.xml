@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<project version="4">
-  <component name="SshConfigs">
-    <configs>
-      <sshConfig host="3.133.97.108" id="c9ce58af-05eb-4e9b-91f0-d1841ed9afe1" keyPath="C:\Users\pencl\OneDrive\바탕 화면\AWS키페어\13th_server_c.pem" port="22" nameFormat="DESCRIPTIVE" username="ubuntu" />
-    </configs>
-  </component>
-</project>
